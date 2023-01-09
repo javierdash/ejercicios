@@ -1,9 +1,8 @@
-import React from 'react'
-import './App.css'
+import EjemploContexto from './pages/EjemploContexto'
 
 const App = () => {
   return (
-    <h1>holia</h1>
+    <EjemploContexto />
   )
 }
 
